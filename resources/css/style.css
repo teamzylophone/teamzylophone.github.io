@@ -110,12 +110,6 @@ header {
     margin-top: 55px;
 }
 
-.main-nav-alt{
-    float: left;
-    list-style: none;
-    margin-top: 20px;
-}
-
 .main-nav li{
     display: inline-block;
     margin-left:40px;
